@@ -1,1 +1,1 @@
-
+ghcr.io/suwayomi/suwayomi-server:stable
