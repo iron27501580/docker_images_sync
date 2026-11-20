@@ -1,4 +1,4 @@
 ghcr.io/suwayomi/suwayomi-server:stable
 longmeidao/peach:edge
-ghcr.io/hehecat/reader:latest
-poxenstudio/mybooks:latest
+
+
